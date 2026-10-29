@@ -1,0 +1,216 @@
+{
+  "Turkey:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Turkey:retail": {
+    "status": "ok",
+    "code": "WB_GEM:RETSALESSA",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Poland:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Poland:retail": {
+    "status": "ok",
+    "code": "IMF_IFS:ARS_IX",
+    "start": "2015-01-31",
+    "end": "2022-05-31",
+    "n": 89
+  },
+  "Brazil:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Brazil:retail": {
+    "status": "ok",
+    "code": "WB_GEM:RETSALESSA",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "South Africa:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "South Africa:retail": {
+    "status": "ok",
+    "code": "WB_GEM:RETSALESSA",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "India:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "India:retail": {
+    "status": "MISSING"
+  },
+  "Saudi Arabia:ip": {
+    "status": "MISSING"
+  },
+  "Saudi Arabia:retail": {
+    "status": "MISSING"
+  },
+  "Mexico:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Mexico:retail": {
+    "status": "ok",
+    "code": "WB_GEM:RETSALESSA",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Indonesia:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Indonesia:retail": {
+    "status": "MISSING"
+  },
+  "Thailand:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Thailand:retail": {
+    "status": "MISSING"
+  },
+  "Egypt:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Egypt:retail": {
+    "status": "MISSING"
+  },
+  "Malaysia:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Malaysia:retail": {
+    "status": "MISSING"
+  },
+  "Philippines:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Philippines:retail": {
+    "status": "MISSING"
+  },
+  "Chile:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Chile:retail": {
+    "status": "MISSING"
+  },
+  "Colombia:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Colombia:retail": {
+    "status": "MISSING"
+  },
+  "Peru:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Peru:retail": {
+    "status": "MISSING"
+  },
+  "Argentina:ip": {
+    "status": "MISSING"
+  },
+  "Argentina:retail": {
+    "status": "MISSING"
+  },
+  "Hungary:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Hungary:retail": {
+    "status": "ok",
+    "code": "WB_GEM:RETSALESSA",
+    "start": "2015-01-31",
+    "end": "2024-04-30",
+    "n": 112
+  },
+  "Romania:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Romania:retail": {
+    "status": "ok",
+    "code": "WB_GEM:RETSALESSA",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  },
+  "Greece:ip": {
+    "status": "ok",
+    "code": "WB_GEM:IPTOTSAKD",
+    "start": "2015-01-31",
+    "end": "2024-02-29",
+    "n": 110
+  },
+  "Greece:retail": {
+    "status": "ok",
+    "code": "WB_GEM:RETSALESSA",
+    "start": "2015-01-31",
+    "end": "2024-03-31",
+    "n": 111
+  }
+}

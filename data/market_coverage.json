@@ -1,0 +1,581 @@
+{
+  "XU100.IS": {
+    "country": "Turkey",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-26",
+    "n": 1950
+  },
+  "XULAS.IS": {
+    "country": "Turkey",
+    "series": "sector_transport",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "XBANK.IS": {
+    "country": "Turkey",
+    "series": "sector_banks",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-26",
+    "n": 1940
+  },
+  "XELKT.IS": {
+    "country": "Turkey",
+    "series": "sector_electricity",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "XGIDA.IS": {
+    "country": "Turkey",
+    "series": "sector_food",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "XTCRT.IS": {
+    "country": "Turkey",
+    "series": "sector_retail",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "XUSIN.IS": {
+    "country": "Turkey",
+    "series": "sector_industrials",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-26",
+    "n": 1940
+  },
+  "XHOLD.IS": {
+    "country": "Turkey",
+    "series": "sector_holdings",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "WIG20.WA": {
+    "country": "Poland",
+    "series": "index",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "WIG.WA": {
+    "country": "Poland",
+    "series": "index_broad",
+    "status": "ok",
+    "start": "2019-07-26",
+    "end": "2019-07-26",
+    "n": 1
+  },
+  "WIG-BANKI.WA": {
+    "country": "Poland",
+    "series": "sector_banks",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "WIG-PALIWA.WA": {
+    "country": "Poland",
+    "series": "sector_energy",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "^BVSP": {
+    "country": "Brazil",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1947
+  },
+  "^J203.JO": {
+    "country": "South Africa",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-26",
+    "n": 1954
+  },
+  "^J200.JO": {
+    "country": "South Africa",
+    "series": "index_top40",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-26",
+    "n": 1941
+  },
+  "^NSEI": {
+    "country": "India",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-26",
+    "n": 1927
+  },
+  "^CNXAUTO": {
+    "country": "India",
+    "series": "sector_auto",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-26",
+    "n": 1912
+  },
+  "^CNXENERGY": {
+    "country": "India",
+    "series": "sector_energy",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-26",
+    "n": 1912
+  },
+  "^NSEBANK": {
+    "country": "India",
+    "series": "sector_banks",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-26",
+    "n": 1927
+  },
+  "^CNXFMCG": {
+    "country": "India",
+    "series": "sector_fmcg",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-26",
+    "n": 1911
+  },
+  "^TASI.SR": {
+    "country": "Saudi Arabia",
+    "series": "index",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "^MXX": {
+    "country": "Mexico",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1968
+  },
+  "^JKSE": {
+    "country": "Indonesia",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-26",
+    "n": 1886
+  },
+  "^SET.BK": {
+    "country": "Thailand",
+    "series": "index",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "^CASE30": {
+    "country": "Egypt",
+    "series": "index",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "^KLSE": {
+    "country": "Malaysia",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-26",
+    "n": 1913
+  },
+  "PSEI.PS": {
+    "country": "Philippines",
+    "series": "index",
+    "status": "ok",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "n": 1
+  },
+  "^IPSA": {
+    "country": "Chile",
+    "series": "index",
+    "status": "MISSING"
+  },
+  "^COLCAP": {
+    "country": "Colombia",
+    "series": "index",
+    "status": "MISSING"
+  },
+  "^SPBLPGPT": {
+    "country": "Peru",
+    "series": "index",
+    "status": "MISSING"
+  },
+  "^MERV": {
+    "country": "Argentina",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-16",
+    "n": 1899
+  },
+  "^BUX": {
+    "country": "Hungary",
+    "series": "index",
+    "status": "MISSING"
+  },
+  "^BETI": {
+    "country": "Romania",
+    "series": "index",
+    "status": "MISSING"
+  },
+  "GD.AT": {
+    "country": "Greece",
+    "series": "index",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1940
+  },
+  "TRY=X": {
+    "country": "Turkey",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "PLN=X": {
+    "country": "Poland",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "BRL=X": {
+    "country": "Brazil",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "ZAR=X": {
+    "country": "South Africa",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "INR=X": {
+    "country": "India",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "SAR=X": {
+    "country": "Saudi Arabia",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2035
+  },
+  "MXN=X": {
+    "country": "Mexico",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "IDR=X": {
+    "country": "Indonesia",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-27",
+    "n": 2035
+  },
+  "THB=X": {
+    "country": "Thailand",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "EGP=X": {
+    "country": "Egypt",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "MYR=X": {
+    "country": "Malaysia",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2035
+  },
+  "PHP=X": {
+    "country": "Philippines",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-27",
+    "n": 2035
+  },
+  "CLP=X": {
+    "country": "Chile",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-27",
+    "n": 2035
+  },
+  "COP=X": {
+    "country": "Colombia",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "PEN=X": {
+    "country": "Peru",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "ARS=X": {
+    "country": "Argentina",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "HUF=X": {
+    "country": "Hungary",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "RON=X": {
+    "country": "Romania",
+    "series": "fx",
+    "status": "ok",
+    "start": "2019-01-01",
+    "end": "2026-10-28",
+    "n": 2036
+  },
+  "^VIX": {
+    "country": "GLOBAL",
+    "series": "vix",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1968
+  },
+  "EEM": {
+    "country": "GLOBAL",
+    "series": "msci_em_etf",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "BZ=F": {
+    "country": "GLOBAL",
+    "series": "brent",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1969
+  },
+  "DX-Y.NYB": {
+    "country": "GLOBAL",
+    "series": "dxy",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1968
+  },
+  "^TNX": {
+    "country": "GLOBAL",
+    "series": "us10y",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "^GSPC": {
+    "country": "GLOBAL",
+    "series": "sp500",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "TUR": {
+    "country": "Turkey",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "EPOL": {
+    "country": "Poland",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "EWZ": {
+    "country": "Brazil",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "EZA": {
+    "country": "South Africa",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "INDA": {
+    "country": "India",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "KSA": {
+    "country": "Saudi Arabia",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "EWW": {
+    "country": "Mexico",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "EIDO": {
+    "country": "Indonesia",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "THD": {
+    "country": "Thailand",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "EGPT": {
+    "country": "Egypt",
+    "series": "etf_usd",
+    "status": "MISSING"
+  },
+  "EWM": {
+    "country": "Malaysia",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "EPHE": {
+    "country": "Philippines",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "ECH": {
+    "country": "Chile",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "GXG": {
+    "country": "Colombia",
+    "series": "etf_usd",
+    "status": "MISSING"
+  },
+  "EPU": {
+    "country": "Peru",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "ARGT": {
+    "country": "Argentina",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  },
+  "GREK": {
+    "country": "Greece",
+    "series": "etf_usd",
+    "status": "ok",
+    "start": "2019-01-02",
+    "end": "2026-10-27",
+    "n": 1966
+  }
+}

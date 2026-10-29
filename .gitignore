@@ -1,0 +1,10 @@
+# raw provider data are never committed
+data_raw/
+collector/data/
+*.npz
+*.pt
+Global_Mobility_Report.csv
+OxCGRT_compact_national.csv
+tomtom_trafic_index.csv
+__pycache__/
+*.pyc

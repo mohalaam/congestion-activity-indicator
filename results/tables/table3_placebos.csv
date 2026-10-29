@@ -1,0 +1,9 @@
+sample,target,placebo,actual_t,placebo_mean_t,placebo_sd_t,p_value_placebo,placebo_b_inter,placebo_t_inter,n
+ex_lockdown,"USD ETF, next week",within-country shuffle (500),4.315931449363157,0.10958653200215127,1.1217919070499576,0.0,,,
+ex_lockdown,"USD ETF, next week",signal lagged 52 weeks,2.9912160926486444,,,,0.1120538287679753,1.489936172527083,1098.0
+ex_lockdown,"Local index, next week",within-country shuffle (500),2.2841259660047224,-0.06399979358716892,1.0416400266817554,0.012,,,
+ex_lockdown,"Local index, next week",signal lagged 52 weeks,2.0672470934927745,,,,0.17424924345310158,2.0309922530390385,697.0
+post_2021-07,"USD ETF, next week",within-country shuffle (500),2.937770577318907,-0.007318288397690911,0.9859005009619382,0.002,,,
+post_2021-07,"USD ETF, next week",signal lagged 52 weeks,2.181986212699741,,,,0.10090915743289451,1.3484978651232404,946.0
+post_2021-07,"Local index, next week",within-country shuffle (500),1.6660161587802078,-0.07504868924919536,0.9760361702476867,0.034,,,
+post_2021-07,"Local index, next week",signal lagged 52 weeks,1.6864936095500418,,,,0.13868506385774557,1.541361193041925,599.0
